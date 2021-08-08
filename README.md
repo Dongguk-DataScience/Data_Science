@@ -10,6 +10,6 @@
 3. 성공 사례와 상관관계가 큰 변수들을 조합한 후 K-means 군집화를 통해 기대 효과가 큰 관광지 위치 선정
 ```
 
-# 참고자료
+# 데이터 출처
 - [KOSIS](https://kosis.kr/statHtml/statHtml.do?orgId=210&tblId=DT_GRDP002&conn_path=I3)
 - [전국관광지정보표준데이터](https://www.data.go.kr/data/15021141/standard.do)
