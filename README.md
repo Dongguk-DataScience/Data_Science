@@ -55,6 +55,8 @@
 
 - [TourAPI3.0 사이트(관광인프라수집)](https://api.visitkorea.or.kr/search/galleryList.do)
 
+- [카카오맵 API 개발 가이드](https://developers.kakao.com/docs/latest/ko/local/dev-guide) : 관광 인프라의 "주소" 데이터가 부정확하여 "위경도" 데이터를 카카오맵 API를 사용하여 주소 데이터로 전처리
+
 - [DBPia_참고논문](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE01642617)
   * 김태헌, 박숙진 (2011). 지역경제 활성화를 위한 관광자원개발과 관광정책의 역할. 한국콘텐츠학회논문지, 11(5), 403-412
     * 관광인프라가 지역경제활성화에 유의한 영향을 미칠 것이라는 가설 기각
