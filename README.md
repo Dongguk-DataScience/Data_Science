@@ -24,7 +24,7 @@
 
 6. 상관계수를 구하여 상관 관계를 추출
 ```
-
+------------------------------------------------
 ## 전처리 과정
 ![preprocessing](https://user-images.githubusercontent.com/73403038/129845826-07d9aa23-667d-4eaa-828b-dbb359f164c7.png)
 
